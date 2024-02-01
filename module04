@@ -1,0 +1,12 @@
+// HelloWorld/Task1.kt
+package helloWorldITSE1329
+
+
+
+// TODO
+
+fun main() {
+    println("Hello, world!")
+    println("My name is Adriana Hernandez")
+    println("I am taking kotlin at Conrad high, class number:ITSE1329")
+}
