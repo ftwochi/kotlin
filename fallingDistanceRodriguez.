@@ -10,4 +10,4 @@ fun main() {
         counter++
     }
 }
-//the counter is increasing in gravity from time to time//
+//the counter is increasing in gravity from time to time by increasing the time in seconds while the counter is less than or equal to 10.//
